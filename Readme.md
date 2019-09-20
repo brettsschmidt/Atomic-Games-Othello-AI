@@ -1,4 +1,8 @@
 
+# AI Folder Contains AI used by Brett Schmidt for the Atomic Games 2018
+
+Written in C#, the AI utilizes a Min-Max algorithm for playing Othello. 
+
 # C# SDK for Atomic Games 2018
 
 Written in [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), this starter kit includes:
